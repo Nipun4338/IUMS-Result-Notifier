@@ -12,6 +12,7 @@ then sends it to my email if any changes were made.
     Save the result in a txt file. 
     Updates after each 10 minutes and checks the previous txt file with the new one. 
     If find changes, e-mails it to the receiver. 
+    ![](app.gif)
 
 ## Installation
     
