@@ -18,5 +18,5 @@ then sends it to my email if any changes were made.
 ## Installation
     
 ## Caution!
-    1. If IUMS site made any changes, this code will not work. User has to modify by inspecting the site.
+    1. If AUST IUMS site made any changes, this code will not work. User has to modify by inspecting the site.
     2. Works on colab, so you've to make sure colab terminal is always running.
