@@ -15,7 +15,12 @@ then sends it to my email if any changes were made.
    ![](app.gif)
    Details: https://youtu.be/2LFvI5KbltQ
 
-## Installation
+## How to run
+    1. Allow your gmail account to access lower security app (for sending email through that account)
+    2. Then follow: https://joequery.me/guides/python-smtp-authenticationerror/
+    3. Update gmail_user = 'your less secure email' and gmail_password = 'your less secure email password'
+    4. Run the cells!
+    5. If any issue with the folder or txt file, run #Delete the folder cell.
     
 ## Caution!
     1. If AUST IUMS site made any changes, this code will not work. User has to modify by inspecting the site.
