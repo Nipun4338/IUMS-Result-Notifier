@@ -10,8 +10,8 @@ then send it to my email if any changes were made.
 
 ## How it works?
     Save the result in a txt file. 
-    Updates after each 10 minutes and check the previous txt file with the new one. 
-    If find changes, e-mail it to the receiver. 
+    Updates after each 10 minutes and checks the previous txt file with the new one. 
+    If find changes, e-mails it to the receiver. 
 
 ## Installation
     
