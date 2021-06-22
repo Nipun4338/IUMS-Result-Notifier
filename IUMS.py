@@ -37,7 +37,7 @@ def read():
     global session
     # Create Email
     gmail_user = 'boi.yourbook@gmail.com'
-    gmail_password = 'boi@boi.'
+    gmail_password = 'password'
     mail_from = gmail_user
     mail_to = 'nipun4338@gmail.com'
     mail_subject = 'IUMS Result Changed'
