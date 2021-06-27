@@ -6,7 +6,8 @@ After learning some basic web scraping, done a small colab script which enters t
 then sends it to my email if any changes were made.
 
 ## Libraries
-    Selenium, Smtplib
+    * Selenium
+    * Smtplib
 
 
 ## How it works?
