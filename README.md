@@ -13,7 +13,7 @@ then sends it to my email if any changes were made.
     Updates after each 10 minutes and checks the previous txt file with the new one. 
     If find changes, e-mails it to the receiver. 
    ![](app.gif)
-   <img src="Image.jpeg" width="100" height="100">
+   <img src="Image.jpeg" width="700" height="400">
    Details: https://youtu.be/2LFvI5KbltQ
 
 ## How to run
