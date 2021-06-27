@@ -13,7 +13,7 @@ then sends it to my email if any changes were made.
     Updates after each 10 minutes and checks the previous txt file with the new one. 
     If find changes, e-mails it to the receiver. 
    ![](app.gif)
-   ![IUMS Result Notifier](Image.jpeg | width=100)
+   ![IUMS Result Notifier](Image.jpeg){:class="img-responsive"}
    Details: https://youtu.be/2LFvI5KbltQ
 
 ## How to run
